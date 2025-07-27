@@ -104,7 +104,7 @@ To run this project, you will need Python 3 and the following libraries:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/drought-prediction.git](https://github.com/your-username/drought-prediction.git)
+    git clone[(https://github.com/your-username/drought-prediction.git)](https://github.com/Rahul09123/Comparative-Analysis-of-ML-Algorithms-in-Drought-Prediction.git)
     cd drought-prediction
     ```
 
