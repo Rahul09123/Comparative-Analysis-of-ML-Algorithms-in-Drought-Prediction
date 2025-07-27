@@ -92,8 +92,8 @@ Throughout the project, we encountered several challenges:
 ---
 
 ## 💻 How to Run
-``` It requires an approximate time of 2 hrs to run the whole code```
-``` Better see the colab notebook to view the Results```
+### It requires an approximate time of 2 hrs to run the whole code
+### Better see the colab notebook to view the Results
 To run this project, you will need Python 3 and the following libraries:
 
 * pandas
@@ -125,9 +125,9 @@ To run this project, you will need Python 3 and the following libraries:
 
 This project was developed as part of the Bachelor of Technology program at Haldia Institute of Technology.
 
+* **Rahul Raman**
 * **Kritik Tiwary**
 * **Mayank Kumar**
 * **Priyanshu**
-* **Rahul Raman**
 
 Under the guidance of **Dr. Arindam Giri**.
